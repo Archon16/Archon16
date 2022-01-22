@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archon16&show_icons=true&theme=dark)
+
 - 👋 Hi, I’m Shiva Rajan
 - 👀 I’m interested in Web and App dev
 - 🔭 I’m currently in 3rd year
