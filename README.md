@@ -83,6 +83,10 @@
 
 <br/>  
 
+## Contributions
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Archon16&repo=Archon16)](https://github.com/Archon16/Archon16)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Archon16&repo=Climate-Predictor)](https://github.com/Archon16/Climate-Predictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Archon16&repo=Destini-Story-Game-in-Flutter)](https://github.com/Archon16/Destini-Story-Game-in-Flutter)
 
 ## Connect with me  
 <div align="center">
