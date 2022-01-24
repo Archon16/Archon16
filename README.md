@@ -6,7 +6,7 @@
 
 
 ### <i>I am from Krypton!!</i>  
-### <div align="left">Hi 🔥 It's me, Shiva Rajan, You've probably NEVER heard of me. And I've never thought of writing a README for myself. Usually README's are written for application and software's, but here i am writing a README about me, READ me. And you cannot star this repo, even if click the <button>Star</button> button.....</div>  
+#### <div align="left">Hi 🔥 It's me, Shiva Rajan, You've probably NEVER heard of me. And I've never thought of writing a README for myself. Usually README's are written for application and software's, but here i am writing a README about me, READ me. And you cannot star this repo, even if click the <button style="background-color:white; border-color:blue">Star</button> button.....</div>  
   
 
 - 🔭  I’m currently in 3rd year  
