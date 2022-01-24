@@ -19,9 +19,7 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
-
-- 📑 Resume: [Academic figures](https://resume.io/r/aA8cJYVhj)  
+   
   
 
 <br/>  
